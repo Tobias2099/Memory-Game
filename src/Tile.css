@@ -1,0 +1,23 @@
+.tile {
+  border: 3px solid #E6E6FA;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+h2 {
+  margin: 0px;
+  font-size: 50px;
+  font-family: Cursive;
+}
+
+.paired {
+  background-color: #FEBE10;
+  border: 3px solid #1d1160;
+}
