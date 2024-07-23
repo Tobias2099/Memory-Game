@@ -30,7 +30,6 @@ function Tile(props) {
     } else {
       console.log("Already paired");
     }
-    //console.log("counter: " + props.counter);
   }
 
   if (props.pairList.findIndex(letter => letter === props.letter) !== -1) {
